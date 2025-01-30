@@ -1,0 +1,78 @@
+ITEM 10
+RECALL
+Define Identification? 
+Types of Identification? 
+What do you mean by complete identification?
+What do you mean by partial identification?
+What is corpus delicti?
+What is bar body?
+What is Davidson body?
+Define race 
+Define cephalic index 
+How to calculate cephalic index.
+Define nuclear sexing 
+Define dactylography 
+Types of dactylography 
+Methods of taking fingerprint.
+Define superimposition 
+Define DNA fingerprinting 
+Traits of identification 
+Difference between 3 races 
+Difference between male and female mandible 
+Difference between male and female pelvis
+Tools of age determination.
+Appearance of 1st molar tooth.
+Fusion of root of 3rd molar tooth.
+How to determine age by mandible?
+What are the secondary sexual characteristics?
+Estimation of stature by long bone examination.
+What is scar?
+What is tricology? What is the rate of growth of hair per day?
+
+ANALYTICAL 
+*Conditions where identification is necessary ? 
+*How many identification marks should be noted by a doctor in all Medicolegal cases? 
+*Ennumerate the identification traits applicable for living person? 
+*Value of cephalic index in different races? 
+*How will you determine the Sex of a person ? 
+*Determination of Sex in a highly decomposed body? 
+* Determination of Sex in mutilated body? 
+*How to determine Nuclear Sex? 
+*How to differentiate between male and female by nuclear sexing? 
+*How is age determined in male and females? 
+*Samples collected for DNA profiling during autopsy? 
+*Ennumerate the dyes used for tattoo marks?
+*Medicolegal importance of age.
+*Medicolegal importance of age 9
+*Medicolegal importance of age 12
+*Medicolegal importance of age 16
+*Medicolegal importance of age 18
+*Medicolegal importance of age 21
+*Medicolegal importance of age 25
+*Medicolegal importance of age 35
+*Medicolegal importance of sex.
+*Medicolegal importance of identification.
+*Medicolegal importance of scar.
+*Medicolegal importance of tattoo.
+*Medicolegal importance of teeth bite mark.
+*Tooth bite causes which type of injury? Blunt or sharp?
+*How to identify monozygotic twin?
+*How to identify children born by superfecundation?
+
+PROBLEM BASED 
+*A female with a dead fetus was brought to forensic department of MMC by police.Women complained against a male for rape & father of dead fetus. Police arrested the 
+male .
+a.how would you confirm the father of the dead fetus?
+
+b.what are the tools to detect the age of the victim
+
+*An unidentified fetus found at a crime scene measured 25 cm. 
+a.Which formula you will use to estimate the gestational age of the fetus & what will be the age of fetus? 
+b.how age is determined in adolescent (male & female)? 
+*A forensic team discovers a set of skeletal remains in an area.they observe the following characteristics in the skeletal remain-
+ i)the 3rd molar teeth are at the process of eruption 
+ii)there is fusion of iliac crest
+What is the age?
+*After a mass disaster, only upper half of the body was found. Face was not recognizable. How will you determine the approximate height of the body?
+*Yousha and Hanna are identical twins. How will you detect their individuality?
+*A gangster's hand got amputated during fight. How will you determine if there was a tattoo on his hand?

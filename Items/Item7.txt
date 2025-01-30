@@ -1,0 +1,205 @@
+ITEM 7
+RECALL
+*Define injury.
+*What is hurt?
+*What is simple hurt?
+*What is grievous hurt?
+*Number 8th section  of grievous hurt.
+*What is Assault?
+*What is battery?
+*Medical classification of injury.
+*Medicolegal and legal classification of injury.
+*Classification of physical/mechanical injuries.
+*Types of thermal injuries.
+*What is Homicide?
+*Types of homicide. 
+*Types of lawful homicide with example.
+*Types of unlawful homicide with example.
+*What is murder?
+*What is capable homicide?
+*What is homicide not amounting to murder?
+*What do you mean by homicide by negligence?
+*What is wound? 
+*What is defense wound? 
+*Common sites of defense wound ? 
+*Medicolegal importanance of defense wound ? 
+*What is self inflicted wound ? 
+*Common sites of self inflicted wound ? 
+*Features of self inflicted wound ? 
+*Medico legal importance of self inflicted wound ? 
+*What is fictitious wound ? 
+*What is hesitation cut? 
+*What is concealed puncture wound ? 
+*Common sites of concealed puncture wound ? 
+*What is crush syndrome? 
+*What are the components of grievous hurt ? 
+*What is active defense wound ? 
+*What is passive defense wound ? 
+*What are the causes of death in suicidal cut and homicidal cut throat injury ? 
+*What are the blunt force injuries? 
+*What are the mechanical injures ?
+*What is abrasion? 
+*Classify abrasion. 
+*What is graze abrasion.
+*What is linear abrasion?
+*What is impact abrasion?
+*What is pressure abrasion?
+*Feature of abrasion.
+*Age of abrasion.
+*DD of abrasion.
+*What is bruise/contusion ?
+*Types of bruise.
+*Feature of bruise.
+*In which cases bruise in not seen?
+*Color change of bruise ? 
+*Complication of bruise.
+*What is black eye?
+*Causes of black eye and its medicolegal importance.
+*What is ectopic bruise? What is its importance.
+*Medicolegal importance of abrasion.
+*Medicolegal importance of bruise.
+*Common sites of incised looking wound. 
+*Define incised wound.
+*Features of incised wound.
+*How can you confirm if it is an incised-looking wound or an incised wound? 
+*Define stab wound?
+*Types of stab wound.
+*Define laceration. 
+*What are common sites of laceration and why these are the common sites ? 
+*Classification of laceration.
+*Features of laceration.
+*What is therapeutic wound.
+*What is Harakiri?
+*Features of incised looking wound.
+*Define head injury.
+*Classify head injury. 
+*Types of skull fracture? Which one is more common?
+*Causes of extradural hemorrhage?
+*Causes of subdural hemorrhage.
+*Causes of subarachnoid hemorrhage.
+*Causes of intracerebral hemorrhage.
+*Where to look for subarachnoid hemorrhage?
+*What are the causes of ring fracture? 
+*What is signature fracture? 
+*What is the medico-legal importance of signature fracture? 
+*What is concussion?. 
+*What is coup lesion?
+*What is contracoup lesion?
+*Lucid interval in head injury.
+*Cause of death in head injury.
+*What is apoplexy?
+*Types of long bone fracture.
+*What is flial chest?
+*In what type of head injury lucid interval is common?
+*What are the features of concussion? 
+*Define RTA. 
+*What is primary impact injury?
+*What is secondary injury in RTA?
+*What is secondary impact injury?
+*Who are the common victims of RTA in our country? 
+*What do you mean by steering wheel injury? 
+*What are the injuries to the pedestrian? 
+*What is whiplash injury?
+*What is tail gating?
+*Injuries to rear seat passenger injuries?
+*What is sparrow foot injury?
+*What is seat belt injury?
+*What is thermal injury? 
+*Classify thermal injury. 
+*Define Hypothermia.
+*Cause of death in hypothermia.
+*Cause of frostbite.
+*Cause of trench foot.
+*What is hide and die syndrome? 
+*What is neonatal cold injury?
+*Define burn. 
+*Define scald.
+*Minimum temperature to produce scald.
+*Explain Rule of Nine. 
+*1% area of victims or examiners palm?
+*Complication of burn. 
+*Cause of death due to burn. 
+*Management of a burn patient.
+*Why superficial burn is more painful? 
+*What is Joule burn?
+*What is curling ulcer?
+*What is Marjolin ulcer?
+*What is heat rupture?
+*What is heat fracture?
+*What is heat hematoma?
+*Heat exhaustion 
+*Heat stroke
+*Heat cramp.
+*What is pugilistic attitude?
+*Define forensic ballistics?
+*Parts of ballistics? 
+*With which part of ballistics does forensic medicine deal with? 
+*What is firearm? 
+*Basic parts of firearm? 
+*Classify firearms according to barrel ?
+*What is rifling? 
+*What is chocking? 
+*Advantage of rifling.
+*Advantage of choking.
+*What is full, half and quarter chock? 
+*What is cartridge? 
+*Composition of shotgun cartridge.
+*Composition of rifle firearm cartridge.
+*Types of gun powder with their composition.
+*Which type of gunpowder is more effective? 
+*What is primer and its composition.
+*What is Kennedy phenomenon?
+*What is tandem bullet?
+*What is Ricochet bullet?
+*Difference between entry wound and exit wound in rifled firearm .
+*Difference between suicidal and homicidal gunshot wound.
+*Cadeveric spasm is found in which type pf gunshot injury?
+*Define bomb.
+*Effects of bomb blast? 
+*Define marshal triad. 
+*What is air blast? 
+*What is flying missiles? 
+*What is Molotov cocktail/ patrol bomb?
+*Importance of disrupting effect.
+*What is the minimum pressure to produce lung blast ?
+
+ANALYTICAL 
+1. Why bruise is of less value than abrasion?
+2.how can you differenciate between bruise and postmortem lividity?
+3.How can you differenciate between AM and PM abrasion ?
+5.How can you differenciate between suicidal and homicidal cut throat?
+7.if you find injury in palm of your hand or folds of fingers ,what will you interpret?
+8. How will you differenciate between antemortem and postmortem incised wound?
+9.explain the role of clot in AM and PM wound?.
+10. What do you mean by member ?
+13.What type of lacerations are produced in a RTA ?
+14. What type of injuries may occur from a blow by broken glass?
+15.Why is there more hemorrhage In a homicidal cut throat than in a suicidal cut throat?
+16.A abrasion has reddish brown appearance of scab, what is the age u determine?
+17.What is the basic difference between assault and battery?
+18.Why do we not mention manner of death in RTA?
+19.Explain- Single injury but bullet in the body.
+20.Explain- single entry wound and double or multiple exit wound.
+21.Explain- Multiple entry wound, single exit wound.
+22.By observing the disrupting effect of a bomb on the victim - How would you guess the position of the victim along bomb blast?
+23.Which type of firearm is air gun? Why?
+
+PROBLEM BASED 
+* A person is hit with a hard blunt weapon over the shin of right tibia. What may be the defining injuries ? 
+*A person was hit with a hard blunt weapon . Later on examination ,he presented a bluish appearance over the injured area. What is the type of injury and mention the time since injury ? 
+*A person is hit with a hard, cylindrical and elongated object. Later he presented with two parallel linear congested area with intervening pale skin. What is the injury and what is its causation ? 
+*A person is hit with a blunt weapon over his forehead. later bluish congestion has been formed around his right periorbital area.What is the injury and mechanism of its causation? 
+*A patient came to you with multiple,parallel cut on anterior aspect of his left forearm near radial artery.What type of wound does he have and it's medicolegal importance ? 
+*A body of a 21 years old young lady came to morgue due to sudden unnatural death. She had no previous illness .You performed autopsy and found nothing significant. What will be your responsibility now to find the cause of her death ? 
+*Mohit and Amit had a quarrel on a Mango tree standing on the border of their houses . One day , Mohit got angry and hit Amit with a glass bottle that caused permanently blindness. What will be Mohit charged of ? Mention other points that can lead to this crime? 
+*A forensic Expert is called to examine a case where a 40 years old male has been found dead in his apartment.The body shows signs of multiple injuries ,including deep cut on the arm and several blunt force trauma on the head. On further examination, he found that some of the wound started healing and some had no signs of healing and were more acute. Now how will he differentiate between antemortem and postmortem wound?
+*A body of a 18 years old young girl came to morgue with a cut on neck high above the thyroid cartilage , there were some hesitation cuts and absence of defense wound. What would be your interpretation? And what was the cause of her death ? 
+*A person having multiple linear incised wound on the inner aspect of the thigh came to hospital asking for injury report and gave history that someone attacked him and the wounds are results of his defence against the attack what are the sign you will check for validity of victims statement? 
+*Two teams of boys were playing cricket. Two teams have rivalry since last inter school tournament.The bowler bowled so fast the batsman was unable to hit. And the ball clashed in the face of the batsmen and two incisor teeth of lower jaw got extracted. In court batsman asked the 
+court for an allegation of grievous hurt. Is it valid or not.? 
+*Three persons attacked a boy and broke his leg. the boy was admitted into MMCH he was on MMCH for a period of one month. At the time of his admission period he was unable to go to washroom by his own. What type of hurt that is? 
+*A dead body came to MMCH morgue having Rigor Mortis. On chest and face has a large area of excoriation of epidermis. How can you differentiate it from insect biting or abrasion? 
+*In morgue respected medical officer is examining the dead body. He gives more emphasis on sign of abrasion on examination. But he said Bruise can be fatal. Explain why he said this.
+*A 30- year-old man came to Emergency room with a wound on his abdomen. The wound is about 3cm long on the surface but deep enough to penetrate the abdominal cavity. The victim stated that he was attacked by an unknown assailant. What kind of injury may occur & why is it?
+*A young man is brought to the emergency room with a wound on his forehead measuring about 5cm×4cmxskin deep. On close inspection, edges are irregular.  He stated that he was hit with a glass bottle. What kind of injury may occur & why it is? 
+*During a war after a bomb blast, some people lost their hearing ability. Why?

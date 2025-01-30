@@ -1,0 +1,54 @@
+ITEM 1
+KNOWLEDGE BASED
+1.Define forensic medicine.
+2.Define medical jurisprudence.
+3.Branches of forensic medicine.
+4.Father of forensic psychiatry.
+5.What do you mean by clinical forensic medicine?
+6.What is forensic dactylography?
+7.What is forensic thanatology?
+8.What is forensic ballistics?
+9.Where was 1st medico legal autopsy done?
+10.Define consent.
+11.Types of consent with example.
+12.Is consent required for medicolegal autopsy?
+13.Is consent required for pathological autopsy?
+14.In which cases informed written consent is required?
+15.What are the exceptions of informed consent?
+16.What is euthanasia?
+17.Classify euthanasia.
+18.What do you mean by DSD?
+18.What is intersex?
+19.Chromosomal pattern of Turner's syndrome.
+20.Chromosomal pattern of Kleinfilter's syndrome.
+21.What do you mean by true hermaphroditism?
+22.What do you mean by pseudo hermaphroditism?
+23.What is malingering?
+24.What are the recent advances in forensic medicine?
+25.Other name of forensic medicine.
+26.What do you mean by forensic odontology?
+27.What do you mean by forensic radiology?
+Father of forensic toxicology.
+
+ANALYTICAL 
+-Difference between forensic medicine amd medical jurisprudence.
+-Medicolegal importance of consent.
+-Types of teeth and total number of teeth in each type.
+-What is Hasse's formula?
+-How to determine age of a fetus by Hass's formula?
+-Objectives of medical records.
+-Features of medical records.
+-Reasons of malingering.
+-How to diagnose malingering?
+-Scope of forensic medicine.
+-What do you mean by digital autopsy?
+-Advantages and disadvantages of digital autopsy.
+-Is euthanasia legal in Bangladesh? Do you support it? Why or why not?
+
+PROBLEM BASED
+📌If the crown heel length of the fetus is 16 cm, calculate its intrauterine age.
+📌If crown heel length of the fetus is 35 cm, calculate its intrauterine age.
+📌 A doctor during taking history from a patient said that he needed to measure her pulse/blood pressure. Then without saying anything the patient moved her hand towards the doctor. Which type of consent is it?
+📌A rape victim came to MMC for examination. What type of consent should be taken?
+📌A patient is suffering from a painful and incurable disease. He appealed to the court for euthanasia by administration of drugs. What type of euthanasia is it?
+📌 Senior nurse Aishwarya appealed to the court for euthanasia of her patient Hrittik Roshan by withdrawal of his life support and court gave permission .  What type of euthanasia is it?
