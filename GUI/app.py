@@ -3,6 +3,7 @@ from tkinter import filedialog, messagebox, ttk
 import os
 import webbrowser
 import importlib.util
+import requests
 
 pdfgen_path = os.path.join(os.getcwd(), "pdfgen.py")
 
@@ -18,26 +19,35 @@ def load_pdfgen():
 
 pdfgen = load_pdfgen()
 
+
 def update():
-    import requests
-    url = "https://rentry.com/mdupdate"
+    """Checks for updates and reloads the pdfgen module if updated."""
+    url = "https://raw.githubusercontent.com/Saikat299792458/Forensics-MT/refs/heads/main/GUI/pdfgen.py"
     try:
         response = requests.get(url)
         if response.status_code == 200:
-            file = open(pdfgen_path, "r")
-            if response.content != file.read():
-                file.close()
-                file = open(pdfgen_path, "wb")
-                file.write(response.content)
-                messagebox.showinfo("Update", "Updated to latest version!")
-                os.startfile()
+            with open(pdfgen_path, "r", encoding="utf-8") as file:
+                local_content = file.read()
+
+            if response.text != local_content:  # Compare as text
+                with open(pdfgen_path, "w", encoding="utf-8") as file:
+                    file.write(response.text)  # Update the file
+
+                messagebox.showinfo("Update", "Updated to the latest version!")
+
+                # Reload the updated pdfgen module
+                import pdfgen
+                importlib.reload(pdfgen)  # Dynamically reload the module
+
             else:
-                messagebox.showerror("Update", "No updates available!")
-            file.close()
+                messagebox.showinfo("Update", "No updates available!")
+
         else:
             raise Exception(response.status_code)
+
     except Exception as e:
-        messagebox.showerror("Update Error", f"An Error Occured! Check your connection and try again. Error Code: {e}")
+        messagebox.showerror("Update Error", f"An error occurred! Check your connection and try again.\nError Code: {e}")
+
 
 
 class ModelTestApp:
@@ -105,7 +115,7 @@ class ModelTestApp:
 
         self.btn_help = tk.Label(frame_help, text="Help", fg="blue", cursor="hand2", font=("TkDefaultFont", 10, "underline"))
         self.btn_help.pack(side=tk.LEFT)
-        self.btn_help.bind("<Button-1>", lambda e: webbrowser.open("https://google.com"))
+        self.btn_help.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/Saikat299792458/Forensics-MT/blob/main/README.md"))
         self.btn_update = tk.Label(frame_help, text="Check for Updates", fg="blue", cursor="hand2", font=("TkDefaultFont", 10, "underline"))
         self.btn_update.pack()
         self.btn_update.bind("<Button-1>", lambda e: update())
@@ -180,15 +190,20 @@ class ModelTestApp:
             return
 
         # Generate PDF with progress updates
-        for i in self.gen.create_pdf(num_tests, questions):
-            progress_bar["value"] += i
-            progress_dialog.update_idletasks()
-
+        excp = None
+        try:
+            for i in self.gen.create_pdf(num_tests, questions):
+                progress_bar["value"] += i
+                progress_dialog.update_idletasks()
+        except Exception as e:
+            excp = e
         progress_dialog.destroy()  # Close the progress dialog when done
-
-        # Show success message and open the PDF
-        messagebox.showinfo("Success", "PDF generated successfully!")
-        os.startfile(self.gen.output_filename)  # Open the generated PDF
+        if not excp:
+            # Show success message and open the PDF
+            messagebox.showinfo("Success", "PDF generated successfully!")
+            os.startfile(self.gen.output_filename)  # Open the generated PDF
+        else:
+            messagebox.showerror("Error", f"An Error Occured:{excp}")
 
 
 
